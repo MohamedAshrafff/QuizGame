@@ -1,0 +1,59 @@
+What is the capital of Italy?;Rome;Paris;Berlin;Madrid;a
+Which planet is known as the Red Planet?;Venus;Earth;Mars;Jupiter;c
+What is the largest ocean on Earth?;Atlantic Ocean;Indian Ocean;Arctic Ocean;Pacific Ocean;d
+Who wrote "To Kill a Mockingbird"?;Harper Lee;J.K. Rowling;Ernest Hemingway;Mark Twain;a
+What is the chemical symbol for gold?;Au;Ag;Fe;Pb;a
+Which element has the atomic number 1?;Helium;Hydrogen;Lithium;Beryllium;b
+What is the hardest natural substance on Earth?;Gold;Iron;Diamond;Platinum;c
+In which year did the Titanic sink?;1905;1912;1920;1931;b
+Who painted the Mona Lisa?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci;Claude Monet;c
+What is the smallest prime number?;0;1;2;3;c
+Which planet is closest to the Sun?;Venus;Earth;Mercury;Mars;c
+What is the currency of Japan?;Yen;Dollar;Euro;Won;a
+Who is known as the "Father of Computers"?;Alan Turing;Charles Babbage;Bill Gates;Steve Jobs;b
+What is the main ingredient in guacamole?;Tomato;Avocado;Onion;Pepper;b
+How many continents are there on Earth?;5;6;7;8;c
+Which ocean is the smallest?;Atlantic Ocean;Indian Ocean;Arctic Ocean;Pacific Ocean;c
+Who was the first President of the United States?;Abraham Lincoln;George Washington;Thomas Jefferson;John Adams;b
+What is the chemical formula for water?;H2O;CO2;NaCl;CH4;a
+What is the largest planet in our solar system?;Earth;Saturn;Jupiter;Neptune;c
+What language is primarily spoken in Brazil?;Spanish;Portuguese;French;English;b
+What is the capital of Australia?;Sydney;Melbourne;Canberra;Brisbane;c
+Who discovered penicillin?;Marie Curie;Alexander Fleming;Louis Pasteur;Isaac Newton;b
+What is the tallest mountain in the world?;K2;Kangchenjunga;Mount Everest;Lhotse;c
+What is the largest desert in the world?;Sahara;Gobi;Kalahari;Antarctic Desert;d
+Who wrote "1984"?;George Orwell;Aldous Huxley;Ray Bradbury;Margaret Atwood;a
+In which country would you find the city of Marrakech?;Egypt;Morocco;Tunisia;Algeria;b
+What is the chemical symbol for silver?;Ag;Au;Pb;Fe;a
+Which planet is known for its ring system?;Mars;Saturn;Uranus;Neptune;b
+Who was the first woman to win a Nobel Prize?;Marie Curie;Rosalind Franklin;Ada Lovelace;Lise Meitner;a
+What is the largest mammal in the world?;Elephant;Blue Whale;Giraffe;Shark;b
+What is the boiling point of water in degrees Celsius?;90;100;110;120;b
+Who painted "Starry Night"?;Claude Monet;Vincent van Gogh;Pablo Picasso;Salvador Dalí;b
+What is the currency of the United Kingdom?;Euro;Pound Sterling;Dollar;Yen;b
+What is the smallest continent by land area?;Africa;Europe;Australia;Antarctica;c
+Who is the author of the Harry Potter series?;J.K. Rowling;J.R.R. Tolkien;C.S. Lewis;George R.R. Martin;a
+What is the chemical symbol for sodium?;Na;K;Ca;Mg;a
+In which year did World War II end?;1943;1944;1945;1946;c
+Who was the Greek goddess of wisdom?;Hera;Aphrodite;Artemis;Athena;d
+What is the main gas found in the Earth's atmosphere?;Oxygen;Carbon Dioxide;Nitrogen;Argon;c
+What is the longest river in the world?;Nile;Amazon;Yangtze;Mississippi;a
+Who is the author of "Pride and Prejudice"?;Charlotte Brontë;Jane Austen;Emily Dickinson;Mary Shelley;b
+What is the hardest natural substance on Earth?;Gold;Iron;Diamond;Platinum;c
+Which planet is known as the "Giant Red Spot"?;Jupiter;Saturn;Uranus;Neptune;a
+What is the smallest country in the world by land area?;Monaco;San Marino;Vatican City;Liechtenstein;c
+What is the capital of Canada?;Toronto;Vancouver;Ottawa;Montreal;c
+Who developed the theory of relativity?;Isaac Newton;Niels Bohr;Albert Einstein;Galileo Galilei;c
+What is the main ingredient in traditional sushi?;Chicken;Beef;Fish;Pork;c
+Which planet is known as the "Evening Star"?;Venus;Mars;Saturn;Mercury;a
+Who wrote the play "Romeo and Juliet"?;William Shakespeare;Christopher Marlowe;Ben Jonson;Thomas Middleton;a
+What is the chemical symbol for potassium?;K;P;Po;Pt;a
+What is the primary language spoken in Egypt?;Arabic;Hebrew;Turkish;Farsi;a
+Which continent is known as the "Dark Continent"?;Africa;Asia;South America;Australia;a
+What is the largest island in the world?;Greenland;New Guinea;Borneo;Madagascar;a
+Who is known as the "Queen of Pop"?;Madonna;Beyoncé;Lady Gaga;Rihanna;a
+What is the boiling point of water in Fahrenheit?;100;212;180;32;b
+What is the currency used in Switzerland?;Euro;Pound Sterling;Franc;Dollar;c
+Which element is represented by the symbol 'He'?;Helium;Hydrogen;Hafnium;Hassium;a
+What is the largest city in the United States by population?;New York City;Los Angeles;Chicago;Houston;a
+Who invented the light bulb?;Nikola Tesla;Thomas Edison;Alexander Graham Bell;Michael Faraday;b
